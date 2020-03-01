@@ -1,1 +1,1 @@
-# atpure.github.io
+# atpure.io
